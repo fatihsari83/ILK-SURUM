@@ -19,6 +19,7 @@ public class C01_DataCasting {
         byte l=(byte)a;
 
         int m=(int)b;
+        System.out.println("Merhaba");
 
 
     }
